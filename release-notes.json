@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "versions": [
+    {
+      "version": "2.0.6",
+      "items": [
+        {
+          "type": "list",
+          "title": "What's new in BusSing",
+          "rows": [
+            {
+              "symbolSystemName": "location.circle.fill",
+              "title": "Widgets that follow you",
+              "description": "Your widget can now update automatically to show the most useful nearby bus stop as you move around."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

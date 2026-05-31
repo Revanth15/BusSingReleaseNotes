@@ -2,16 +2,26 @@
   "schemaVersion": 1,
   "versions": [
     {
-      "version": "2.0.6",
+      "version": "2.1.0",
       "items": [
         {
           "type": "list",
           "title": "What's new in BusSing",
           "rows": [
             {
-              "symbolSystemName": "location.circle.fill",
-              "title": "Widgets that follow you",
-              "description": "Your widget can now update automatically to show the most useful nearby bus stop as you move around."
+              "symbolSystemName": "speedometer",
+              "title": "Improved performance",
+              "description": "BusSing is now more responsive across maps, routes, and arrival timing interactions."
+            },
+            {
+              "symbolSystemName": "signpost.right.fill",
+              "title": "Destinations on service rows",
+              "description": "Service rows now show destination details, making it easier to confirm you’re heading in the right direction."
+            },
+            {
+              "symbolSystemName": "checkmark.shield.fill",
+              "title": "ETA Trust Score",
+              "description": "BusSing Express members can now see a trust score for arrival estimates, helping you judge how reliable each ETA is"
             }
           ]
         }

@@ -21,7 +21,7 @@
             {
               "symbolSystemName": "checkmark.shield.fill",
               "title": "ETA Trust Score",
-              "description": "BusSing Express members can now see a trust score for arrival estimates, helping you judge how reliable each ETA is"
+              "description": "Users can now see a trust score for arrival estimates, helping you judge how reliable each ETA is"
             }
           ]
         }
